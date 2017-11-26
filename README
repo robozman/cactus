@@ -1,0 +1,22 @@
+A Minecraft b1.7.3 "server" written in C
+Written to become somewhat familiar with C socket programming
+VERY VERY VERY WIP
+
+Currently Implemented:
+- Handshake packet
+- Login packet
+- Spawn packet
+- Disconnect packet
+- Time packet
+
+Current Unimplemented:
+- Everything else
+
+Plans
+- Implement more packets
+- Figure out how to send chunk data
+- Make something cool
+- Give up
+
+Thanks:
+- MCDevs at wiki.vg for protocol documentation
